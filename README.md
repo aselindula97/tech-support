@@ -10,16 +10,16 @@ facilities such as signing up with the new system, login with their already exis
 editing their own profile, changing the password and asking questions. Technical questions can
 be asked under following 7 main categories (services):
 
-1.Operating Systemm
-2.Software
-3.Hardware
-4.Internet and Networking
-5.Security and Malware removal
-6.Phones and Mobile devices
-7.General Technology
+1. Operating Systemm
+2. Software
+3. Hardware
+4. Internet and Networking
+5. Security and Malware removal
+6. Phones and Mobile devices
+7. General Technology
 
 ##  Project Goal
 Our project goal is:
-“To build an effective, user friendly Online Technical Support Management system to interact
+>“To build an effective, user friendly Online Technical Support Management system to interact
 with the customers in order to answer questions, resolve technical support issues raised by the
 customers.”
