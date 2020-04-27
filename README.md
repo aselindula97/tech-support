@@ -9,7 +9,8 @@ the answered and unanswered questions through this system. Users are provided wi
 facilities such as signing up with the new system, login with their already existing accounts,
 editing their own profile, changing the password and asking questions. Technical questions can
 be asked under following 7 main categories (services):
-1.Operating System
+
+1.Operating Systemm
 2.Software
 3.Hardware
 4.Internet and Networking
