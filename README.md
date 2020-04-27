@@ -23,3 +23,13 @@ Our project goal is:
 >“To build an effective, user friendly Online Technical Support Management system to interact
 with the customers in order to answer questions, resolve technical support issues raised by the
 customers.”
+
+###  Here are some screenshots of interfaces in this project
+<p align="center">
+  <img src="interfaces/homepage.PNG" width="350" alt="home page">
+  <img src="interfaces/signuppage.PNG" width="350" title="signup page">
+</p>
+<p align="center">
+  <img src="interfaces/loginpage.PNG" width="350" alt="login page">
+  <img src="interfaces/adminpage.PNG" width="350" title="admin page">
+</p>
