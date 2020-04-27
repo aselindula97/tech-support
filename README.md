@@ -10,7 +10,7 @@ facilities such as signing up with the new system, login with their already exis
 editing their own profile, changing the password and asking questions. Technical questions can
 be asked under following 7 main categories (services):
 
-1. Operating Systemm
+1. Operating System
 2. Software
 3. Hardware
 4. Internet and Networking
@@ -26,10 +26,13 @@ customers.”
 
 ###  Here are some screenshots of interfaces in this project
 <p align="center">
-  <img src="interfaces/homepage.PNG" width="350" alt="home page">
-  <img src="interfaces/signuppage.PNG" width="350" title="signup page">
+  <img src="interfaces/homepage.PNG" width="500" alt="home page">
 </p>
 <p align="center">
+  <img src="interfaces/signuppage.PNG" width="350" title="signup page">
   <img src="interfaces/loginpage.PNG" width="350" alt="login page">
+</p>
+<p align="center">
   <img src="interfaces/adminpage.PNG" width="350" title="admin page">
+  <img src="interfaces/userpage.PNG" width="350" title="user page">
 </p>
